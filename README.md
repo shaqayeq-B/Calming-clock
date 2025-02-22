@@ -3,8 +3,6 @@ Part of a project
 ```markdown
 # 🌞 Zen Clock - Interactive Coding Progress Visualizer
 
-![Demo](https://imgur.com/your-demo-gif-link-here.gif)
-
 A calming interactive visualization tool built with Pygame that transforms your coding activity into a beautiful solar journey!
 
 ## ✨ Key Features
@@ -79,4 +77,3 @@ We welcome contributions! Please follow these steps:
    ```text
    pygame==2.5.0
    ```
-4. Consider adding badges (Python version, license, etc.)
