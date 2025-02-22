@@ -5,7 +5,7 @@ Part of a project
 
 A calming interactive visualization tool built with Pygame that transforms your coding activity into a beautiful solar journey!
 
-## ✨ Key Features
+## Key Features
 - Floating circular window with drag-to-move functionality
 - Sun movement triggered by mouse clicks/keyboard input
 - Dynamic background transitioning from day to sunset colors
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python ZenClock.py
 ```
 
-## 🕹️ Controls
+##  Controls
 - **Left Click**: Advance sun (+1°)
 - **Any Keyboard Key**: Advance sun (+2°)
 - **Window Drag**: Click + drag anywhere on window
